@@ -198,3 +198,14 @@ input.start:hover{background: #aaaba6;}
 }
 
 .hide{display: none;}
+@media screen and (max-width: 1600px) {
+ .message{
+  width: 400px;
+ }
+}
+
+ @media screen and (max-width: 1430px) {
+  .message{
+   top: 500px;
+  }
+ }
